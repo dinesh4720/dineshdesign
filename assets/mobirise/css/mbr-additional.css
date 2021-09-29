@@ -4,6 +4,10 @@
   src: url(../../socicon/fonts/GTWalsheimPro-Bold.ttf);
 }
 @font-face {
+  font-family: sf;
+  src: url(../../socicon/fonts/SFPRODISPLAYREGULAR.ttf);
+}
+@font-face {
   font-family: be-b;
   src: url(../../socicon/fonts/BeVietnam-Bold.ttf);
 }
@@ -23,8 +27,13 @@
 body {
   font-family: Ar;
 }
+.maint{
+  color:#155446;
+  font-family:sf;
+}
 .subt{
   color:#4c5d59;
+  font-family:sf;
 }
 .boldy{
   font-family: be-b;
