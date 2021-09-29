@@ -48,7 +48,7 @@ body {
   display: flex;
   justify-content: center;
   margin-bottom:2rem;
-  color: #053e31;
+  color: #cddcdd;
 }
 img.hoverr {
   transition: 0.5s;
