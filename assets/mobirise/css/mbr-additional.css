@@ -3,6 +3,11 @@
   font-family: Ma;
   src: url(../../socicon/fonts/GTWalsheimPro-Bold.ttf);
 }
+
+@font-face {
+  font-family: sf-b;
+  src: url(../../socicon/fonts/SFPRODISPLAYBOLD.OTF);
+}
 @font-face {
   font-family: sf;
   src: url(../../socicon/fonts/SFPRODISPLAYREGULAR.OTF);
