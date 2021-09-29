@@ -22,6 +22,7 @@
 
 body {
   font-family: Ar;
+  background: #c9e4de;
 }
 .subt{
   color:#4c5d59;
@@ -113,6 +114,7 @@ h5.gap {
 .cus-fnt{
   font-size: 1.4rem;
   font-family: be-l;
+  color: #8f9291;
   line-height: 1.6;
 }
 .display-2 {
@@ -827,7 +829,7 @@ a {
   transition: color 0.6s;
 }
 .cid-s48udlf8KU {
-  padding-top: 10rem;
+  padding-top: 8rem;
   padding-bottom: 5rem;
   background-color:#c9e4de;
   height: 70vh;
