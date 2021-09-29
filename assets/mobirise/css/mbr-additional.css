@@ -33,11 +33,12 @@ body {
   color: #053e31;
 }
 .scroll{
-  font-sizr: 1rem;
+  font-size: 0.8 rem;
   font-family: be-b;
   display: flex;
   justify-content: center;
-  margin-bottom:2rem
+  margin-bottom:2rem;
+  color: #053e31;
 }
 img.hoverr {
   transition: 0.5s;
