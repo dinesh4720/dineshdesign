@@ -5,7 +5,7 @@
 }
 @font-face {
   font-family: sf;
-  src: url(../../socicon/fonts/SFPRODISPLAYREGULAR.ttf);
+  src: url(../../socicon/fonts/SFPRODISPLAYREGULAR.OTF);
 }
 @font-face {
   font-family: be-b;
@@ -27,10 +27,7 @@
 body {
   font-family: Ar;
 }
-.maint{
-  color:#155446;
-  font-family:sf;
-}
+
 .subt{
   color:#4c5d59;
   font-family:sf;
@@ -170,6 +167,11 @@ h5.gap {
 }
 .mid{
   display: none;
+}
+.maint{
+  color:#155446;
+  font-family:sf;
+  font-size:1rem;
 }
 
 .display-7 > .mbr-iconfont {
