@@ -32,6 +32,10 @@ body {
   font-size: 2.3rem;
   color: #053e31;
 }
+.scroll{
+  font-sizr: 1rem;
+  font-family: be-b;
+}
 img.hoverr {
   transition: 0.5s;
   transform: scale(1);
@@ -114,7 +118,7 @@ h5.gap {
 .cus-fnt{
   font-size: 1rem;
   font-family: be-l;
-  color: white;
+  color: #053e31;
   line-height: 1.6;
 }
 .display-2 {
@@ -829,10 +833,11 @@ a {
   transition: color 0.6s;
 }
 .cid-s48udlf8KU {
-  padding-top: 8rem;
-  padding-bottom: 5rem;
-  background-color: #CDDCDD;
-  height: 70vh;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+    background-color: #CDDCDD;
+    height: 70vh;
+    margin-bottom: 31px;
   
 }
 .cid-s48udlf8KU .mbr-section-title {
@@ -865,7 +870,6 @@ a {
   .cid-s48udlf8KU {
   padding-top: 7rem;
   padding-bottom: 5rem;
-  background-color:#c9e4de;
   height: 70vh;
   }
 }
