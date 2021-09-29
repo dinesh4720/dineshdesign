@@ -836,12 +836,12 @@ a {
   transition: color 0.6s;
 }
 .cid-s48udlf8KU {
-    padding-top: 10rem;
-    padding-bottom: 10rem;
+padding-bottom: 4rem;
     background-color: #CDDCDD;
     height: 70vh;
-    margin-bottom: 31px;
-  
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 26px;
 }
 .cid-s48udlf8KU .mbr-section-title {
   text-align: center;
@@ -849,7 +849,7 @@ a {
   color: #484848;
 }
 .cid-s48udlf8KU .mbr-section-subtitle {
-  text-align: center;
+  text-align: left;
   font-size: 1.5rem;
   color: black;
 }
